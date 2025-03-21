@@ -13,6 +13,8 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
 
+#  image_cropper_platform_interface:
+#    path: ../image_cropper_platform_interface
   image_cropper_platform_interface: ^7.0.0
 
   web: ">=0.5.0 <2.0.0"

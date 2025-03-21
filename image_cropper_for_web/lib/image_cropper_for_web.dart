@@ -270,7 +270,6 @@ class ImageCropperPlugin extends ImageCropperPlatform {
     }
   }
 
-  @override
   Future<CroppedFile?> cropImageData({
     required Uint8List sourceData,
     int? maxWidth,
